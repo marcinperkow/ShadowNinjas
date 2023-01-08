@@ -1,4 +1,4 @@
-# CS 426 | Shadow Ninjas
+# Shadow Ninjas
 
 “Shadow Ninjas” is a single-player stealth-based puzzle platformer where the player must avoid getting caught in the light while attempting to traverse towards the goal.
 
