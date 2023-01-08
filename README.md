@@ -15,11 +15,11 @@ Click [here](https://github.com/kkevn/cs426_ShadowNinjas/releases/tag/v1.0) to d
 ## Pictures
 
 ![Main Menu](https://marcinperkowski.com/ShadowNinjasLocal/p0.png)
-![Main Menu](https://marcinperkowski.com/ShadowNinjasLocal/p1.png)
-![Main Menu](https://marcinperkowski.com/ShadowNinjasLocal/p2.png)
-![Main Menu](https://marcinperkowski.com/ShadowNinjasLocal/p3.png)
-![Main Menu](https://marcinperkowski.com/ShadowNinjasLocal/p4.png)
-![Main Menu](https://marcinperkowski.com/ShadowNinjasLocal/p5.png)
+![Intro](https://marcinperkowski.com/ShadowNinjasLocal/p1.png)
+![Gameplay Picture](https://marcinperkowski.com/ShadowNinjasLocal/p2.png)
+![Next Level Screen](https://marcinperkowski.com/ShadowNinjasLocal/p3.png)
+![Gameplay Picture](https://marcinperkowski.com/ShadowNinjasLocal/p4.png)
+![Paused Menu](https://marcinperkowski.com/ShadowNinjasLocal/p5.png)
 
 ## Gameplay
 
